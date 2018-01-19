@@ -1,0 +1,8 @@
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\bin\Debug\modifyfiletime.exe.config
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\bin\Debug\modifyfiletime.exe
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\bin\Debug\modifyfiletime.pdb
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\obj\Debug\modifyfiletime.Form1.resources
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\obj\Debug\modifyfiletime.Properties.Resources.resources
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\obj\Debug\modifyfiletime.csproj.GenerateResource.Cache
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\obj\Debug\modifyfiletime.exe
+c:\users\tea\documents\visual studio 2012\Projects\modifyfiletime\modifyfiletime\obj\Debug\modifyfiletime.pdb
